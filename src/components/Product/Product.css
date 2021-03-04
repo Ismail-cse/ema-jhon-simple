@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid gray;
+    padding-bottom: 20px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+}
+.product-img{
+    margin-right: 40px;
+}
+h2{
+    color: blue;
+    font-size: 22px;
+}
+.cart-btn{
+    background:#F0C14B;
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+.cart-btn:focus{
+    outline: 0;
+}
